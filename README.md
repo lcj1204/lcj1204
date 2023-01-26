@@ -5,6 +5,13 @@
 	
 [![Changjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcj1204&show_icons=true&theme=tokyonight&card_width=100)](https://github.com/lcj1204/github-readme-stats)
   </div>
+  
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcj1204&exclude_repo=lcj1204.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=lcj1204&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 
 <!--
 **lcj1204/lcj1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
